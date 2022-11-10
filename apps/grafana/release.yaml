@@ -12,5 +12,5 @@ spec:
         kind: HelmRepository
         name: grafana
         namespace: flux-system
-      version: 6.17.10
+      version: '6.17.x'
   interval: 1m0s
